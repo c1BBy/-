@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to right, #007bff, #D1E8E2);
+}
+h2{
+    color:white;
+}
+p{
+    color:white;
+}
+div {
+    width: 300px;
+    margin: 0 auto; 
+  }
